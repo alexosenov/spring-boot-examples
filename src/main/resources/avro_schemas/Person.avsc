@@ -1,0 +1,10 @@
+{
+  "namespace": "bg.osenov.dto.avro",
+  "type": "record",
+  "name": "AvroPersonDto",
+  "fields" : [
+    {"name": "firstname", "type": "string"},
+    {"name": "lastname", "type": "string"},
+    {"name": "email", "type": "string"}
+  ]
+}
