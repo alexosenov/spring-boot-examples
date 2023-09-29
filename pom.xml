@@ -22,7 +22,7 @@
     <lombok.version>1.16.20</lombok.version>
     <flyway.version>5.2.4</flyway.version>
     <confluent.version>4.1.1</confluent.version>
-    <avro.version>1.8.2</avro.version>
+    <avro.version>1.11.3</avro.version>
     <gelf.logback.version>1.0.4</gelf.logback.version>
     <maven-surefire-plugin.version>2.22.0</maven-surefire-plugin.version>
     <maven-failsafe-plugin.version>2.22.1</maven-failsafe-plugin.version>
